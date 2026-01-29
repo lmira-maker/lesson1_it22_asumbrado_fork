@@ -1,3 +1,5 @@
 #Getting Started with Python Dev
 
-#from cancio 
+#from cancio
+
+hi, nars 
